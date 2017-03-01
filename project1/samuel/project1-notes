@@ -167,24 +167,76 @@ Evaluation Criteria :: General Criteria for all sites
 
         Very few to no error messages were presented, and those that were seemed reasonable enough.
         Progress reports were entirely unused throughout the site as the site is dedicated to 
-        information proliforation. Beyond that the places where are progress report would have been
+        information proliforation. Beyond that the places where a progress report would have been
+        useful are inaccessible to the general populace as they would exist within the student or 
+        faculty portals.
+        
 
         15. Were images well chosen / support the text?
+
+        Images were used somewhat sparingly, and mostly consisted of headshots of people who were 
+        being highlighted for various reasons. Thus the images supported the text they were used
+        with, but they were never used to help deliver the useful information which the site
+        was attempting to provide.
+
 
         16. Do all images have text captions? Do they have tooltips? Choose (3)
             images to inspect the alt attribute of.
 
+        All images that would reasonably have captions do have captions, background images do not but
+        adding captions to them would make the site less usable so that is a perfectly reasonable 
+        decision. Only one of the images I looked at with any level of detail had a tooltip, and 
+        about half of the images had alt text. When the alt text was present it was generally quite
+        useful, but it was not present several times when it would have been incredibly helpful to
+        someone who was blind, had a slow internet connection, or was dealing with tight filtering.
+
+
         17. How was the graphic appearance of the site? dull/drab? busy/garish?
+
+        The site is incredibly minimalistic. It borders on dull while maintaining just enough flair
+        to seem interesting. This is obviously only considering the home portal. On average the 
+        subordinate pages were much more interesting graphically with interactive menus, 
+        three-dimensional backgrounds, and so on. There were some pages, the philosophy department's
+        page in particular, which were entirely drab as they were nothing but plaintext HTML with no
+        styling. 
+
+        On the whole the site was somewhat dull, with interesting parts where it was likely many 
+        people would be interacting, and incredibly plain parts where they were less likely to 
+        frequent. This was highly dissappointing as MIT is considered one of the premiere 
+        institutions of higher learning for technology and the sciences, but they cannot build an 
+        attractive website.
+
 
         18. Was color used effectively?
 
+        Color was very minimal, most of the pages on the MIT site are white with black text. There
+        were colors on some pages, and when they were present they were tastefully presented. But 
+        even with all the variance amoung the departments present on the site there were next to none
+        which employed color beyond the very minimum needed to differentiate menus from the main 
+        body of their pages.
+
+
         19. Did it have sound / video? Were they used effectively?
+
+        Sound was not present on the site, and beyond a few video clips from interviews, or the 
+        showcasing of experiments on some research pages there was no video either. The videos 
+        present were perfectly acceptable, and more often than not interesting, but there were very 
+        few of them.
+
 
         20. Did the site have advertising? Was the adv. intrusive or make it
             difficult to get to information on the site?
 
+        Advertisement was thankfully absent from the site. Given that the site is an infromation hub
+        for a very well-off private institution ads were wholly unnecessary.
+
+
         21. Was the site's privacy policy clearly and prominently accessible?
             Does the site record data about your visit?
+
+        The site had no privacy policy per se, at least on the portions of the site accessible to the
+        general public, and thus this does not apply. Data collection was either nonexistant, or so
+        minimal as to escape detection even with repeated visits to the site.
 
         22. Anything else?
 
