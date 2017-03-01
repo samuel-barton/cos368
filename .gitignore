@@ -1,7 +1,7 @@
-*.sublime-workspace
-*.aux
-*.fdb_latexmk
-*.fls
-*.log
-*.synctex.gz
-*.out
+project1/*.sublime-workspace
+project1/*.aux
+project1/*.fdb_latexmk
+project1/*.fls
+project1/*.log
+project1/*.synctex.gz
+project1/*.out
