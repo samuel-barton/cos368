@@ -1,0 +1,223 @@
+- Submit by blackboard :: Saturday March 4, 8 AM
+
+Learning Objectives
+===================
+
+    1.  Consciously & critically examine sites from a UI designer's perspective.
+
+    2.  Collaborate with another person.
+
+    3.  Give an oral presentation.
+
+
+
+Evaluation Criteria
+===================
+
+    1.  Written assignment: Quality of writing, addressing every point
+
+    2.  Oral Presentation: Preparation, organization, expression, content.
+
+
+Evaluation Criteria :: General Criteria for all sites
+=====================================================
+
+    1.  Characterize the purpose of the website; what assumptions the devs
+        would be justified in making about its users.
+
+        The purpose of the MIT website is to provide information about the university, 
+        and market it to new students. The designers can safely assume that 
+
+        1.  Users are interested in math and science
+        2.  Users will have some level of technical understanding
+        3.  The information has greater value than its presentation. i.e. The focus
+            should be on accurate and useful information more than beautiful displays
+        
+
+        
+
+    Organization / Navigation
+    -------------------------
+
+        2.  Is the organization simple to understand? Hierarchical organization?
+            Links clearly labeled with informative text?
+
+        Initially the system is straightforward but it very quickly breaks down as while
+        the organization is hierarchical once you descend down into some sub portion of
+        the site, there is often no good way to get back to the home page, or even some
+        intermediary parent page. Some of the links are clearly labeled, but others are 
+        nothing more than a hyperlinked number.
+
+        The home page is a portal from where you can get to wherever you need to go, and
+        From there the site becomes inconsistent. This is jarring at times, and it makes
+        navigating from one sublevel of the hierarchy to another without going back to the
+        parent level nearly, if not entirely, impossible.        
+
+
+        3.  Is navigation easy? Could you find specific information quickly?
+
+        Navigation down the hierarchy of pages is reasonably straightforward. Information 
+        was easy to find, but once the information has been found navigating back to where 
+        you came from is rather difficult. Even though the site generally clear on where to
+        go to find information, searching for something specific would, in almost all cases,
+        yield the desired result much more quickly. A search will give the desired input in 
+        one step, whereas navigation will take several steps in nearly all cases.
+
+
+        4.  Does it provide appropriate feedback to operations?
+
+        No it does not. There is no clear way to see where you have come from, or your current
+        position within the site's hierarchy beyond looking at the URL in your web browser. Thus
+        clicking on a link, while the animation of a hyperlink is still perfectly valid, does not
+        give any persistent information as to where you've come from once the new page has loaded.
+
+        5.  Does the user have to remember information from an earlier page that is
+            no longer displayed? Re-enter form data?
+
+        Since this site is more informative than interactive, and those parts which are interactive
+        are inaccessable to us, this question is unapplicable.
+
+
+        6.  Local search engine? Does it respond clearly?
+
+        This site has a very well thought out search engine which is local to the user's current 
+        position within the site's hierarchy. Thus at the home page of the site the search engine
+        works across the entire MIT website, and at every department's main page the search is
+        across the department's pages. The responses of the search engine are both clear and 
+        reasonably ordered.
+
+        7.  Did you get lost/have a difficult time getting back to earlier page
+            w/out browser?
+
+        Unfortunately, the designers of the MIT website left out any form of position tracking within
+        the site's hierarchy, so getting lost is nearly effortless. The only solution for getting back
+        to earlier pages, which is generally implemented but not always, is to go back to the root by
+        locating, and clicking on, the MIT logo, which then takes you back to the home page where you
+        can navigate back to wherever you wish to go. This oversight makes the website much more 
+        difficult to navigate in, and is one of the major downsides to its design.
+
+        8.  Did all pages have a link back to the entry/home page?
+
+        Yes. In most cases the MIT logo appears somewhere in the page's header, and clicking on that 
+        will bring you back to the homepage. On those pages where the logo does not exist, as well as
+        on all other pages, there is a small footer at the very bottom of the page with the MIT logo
+        which will also bring you back to the home page.
+
+        9.  Did the pages have a consistent appearance?
+
+        No. The main page was styled like a portal with the information displayed in such a way as to
+        only use up one screen's worth of space. Each child page was formatted slightly differently. 
+        Departments each have their own unique theme which the majority of their pages hold to, and 
+        individual faculty often have a personalized page with another different style. 
+
+        The constant changes in page styling, combined with the total lack of a consisten header and 
+        menu, were quite jarring. As one navigated through the site it would be easy to initially 
+        come to the incorrect conclusion that they had been redirected away from MIT's site entirely.
+
+        10. Did you encounter broken links or bad pages?
+            Try http://validator.w3.org/checklink
+
+        In the entirety of the site, there were seven bad links or pages according to the tool at 
+        \url{http://validator.w3.org/checklink}. See 
+        \url{http://validator.w3.org/checklink?uri=mit.edu&hide_type=all&depth=&check=Check#results1}
+        for the results for MIT's site. Thus the site has successfully eliminated nearly all of its
+        human error problems as far as navigation is concerned.
+
+
+        11. How difficult was it to accomplish the presumed task of your visit?
+            Are there things the site might have done to make it easier?
+
+        Given that the purpose of visiting the site was to learn what was to be learned about the 
+        opportunities for graduate study in computer science at MIT, the task was rather difficult.
+        
+        Learning about the opportunities for graduate and doctoral study ranged in difficulty from 
+        determining the various areas of study within computer science one could specialize in 
+        for a graduate or doctoral degree, which was reasonably challenging but doable with a 
+        nontrivial amount of effort, to determining how much it would cost to get either a master's 
+        or doctoral degree, which was not possible within the several hours spent navigating through 
+        the site assuming one limited oneself to only using the MIT website, and its searching 
+        functionalities, and not emailing faculty or staff.
+
+        The difficulty of finding this information, which would be useful to many individuals, was 
+        quite dissappointing. This information should have been accessible with minimal effort, and 
+        despite the overal good design of the site's hierarchy it was not.
+
+    Content and Presentation of Content
+    -----------------------------------
+
+        12. Was text content well-written, accessible, easily understood?
+
+        The text of the MIT website was well written and generally accessible. Understandability was
+        fine, however it was sometimes difficult to sift through all of the information provided to 
+        find what was essential to the key questions of cost and degree requirements.
+
+
+        13. Were fonts large enough, readable? Was text/background coloring good?
+
+        The fonts chosen by the MIT website were on the whole far too small, they were quite
+        challenging for me to read, and although I recognize that my visual impairment makes me less
+        than objective on this, it certainly was a challenge for me to read the content of the site.
+
+        The background coloring was usually fine, on some of the pages the contrast was done in an
+        odd way that was less than useful, but these were far down the hierarchy on pages devoted to
+        small departments or individuals and thus do not reflect the site as a whole.
+
+
+        14. Were error messages or progress reports clear and understandable?
+
+        Very few to no error messages were presented, and those that were seemed reasonable enough.
+        Progress reports were entirely unused throughout the site as the site is dedicated to 
+        information proliforation. Beyond that the places where are progress report would have been
+
+        15. Were images well chosen / support the text?
+
+        16. Do all images have text captions? Do they have tooltips? Choose (3)
+            images to inspect the alt attribute of.
+
+        17. How was the graphic appearance of the site? dull/drab? busy/garish?
+
+        18. Was color used effectively?
+
+        19. Did it have sound / video? Were they used effectively?
+
+        20. Did the site have advertising? Was the adv. intrusive or make it
+            difficult to get to information on the site?
+
+        21. Was the site's privacy policy clearly and prominently accessible?
+            Does the site record data about your visit?
+
+        22. Anything else?
+
+    Input features for non-shopping sites
+    -------------------------------------
+
+        23. For each input you try:
+
+            a. Briefly characterize what the purpose of the input is.
+
+            b. was the input mechanism easy to understand and use?
+
+            c. Were select menus, check boxes, radio buttons used where
+               appropriate in lieu of text boxes?
+
+            d. Is there an opportunity for free entry of text that has some
+               constraint on validity? If yes, try entering invalid data.
+               Does it prevent entry? does it give useful feedback? does it
+               explain what the needed pattern is?
+
+            e. If the data is entered by checkboxes or select menus and there is
+               a clearly inconsistent set of choices, try making it to see if the
+               site catches the error. Does it prevent the choice? Does it give
+               understandable feedback that the choice is invalid?
+
+    Summary Questions for All Sites
+    -------------------------------
+
+        A. Identify any features of each that you thought were especially effective,
+           or attractive or surprised you.
+
+        B. Identify any features of each that you thought were particularly dismal
+           or unfortunate design choices.
+
+        C. Make a summary judgement on whether the sites are equally effective
+           or one appears better than the other and defend your choice.
