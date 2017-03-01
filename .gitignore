@@ -5,3 +5,4 @@ project1/*.fls
 project1/*.log
 project1/*.synctex.gz
 project1/*.out
+project1/*.pdf
