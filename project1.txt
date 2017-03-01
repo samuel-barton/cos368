@@ -1,0 +1,482 @@
+COS 368    Graphical User Interface Design
+
+Project  1:  Comparing Web Sites
+
+Due:
+
+Written Part: Submitted to Blackboard by Saturday, 2/18, 8 AM
+Oral Presentations: we will schedule them for the two weeks after the winter break;
+                                  I would like you to submit your slides before the talk is delivered
+
+General Discussion of the Assignment
+==============================
+
+This is to be done in teams of two, but if we have an odd number, one team will need to
+have a third member.
+
+There is a written part to the assignment, based on the the evaluation criteria
+given below.  Each team will also give a 10-20 minute presentation(5-10 minutes
+for each team member) in class.  There should be one submission of a written part per
+team, but each team member should should submit a list of the slides used in his or her
+talk before the talk.  If overhead slides are used, you can photograph or scan them.
+
+Below is a list of several broad areas of websites.  You are to identify a teammate
+and pick an area and from that area pick two specific sites and compare them using
+the listed criteria.
+
+For each criterion, give a brief description of each site's features w.r.t it, and
+whether the sites were equivalent with respect to the criterion or one site was better
+than the other, and why you think so.  If members of the team disagreed in the ranking,
+that should be noted and each side should offer their reasons for their ranking.
+
+The criteria provides an opportunity for you to include other aspects or features
+not listed, and you should do that if there were prominent features that you cannot
+fit into any of the listed ones.
+
+The talk should present a selection of a few of the more salient features of the sites,
+possibly things that you think were done well, things that you think were done poorly,
+or features that really distinguished the sites.  You won't be able to cover them all, so
+you should select what you believe to be the most important.  You will likely want
+to have a laptop to demonstrate the features you mention, but it may be better to
+do a screen capture for a backup in case the site is down; that is a low probability
+event, but would be a problem if it happened. If you prefer, you can prepare overhead
+projector slides rather than powerpoint style, but you should have some slides where
+you make your points and some examples from the website supporting your claims.
+With this as with any talk you ever give, it is wise to give it at least once beforehand to time yourself and practice it.
+
+IMPORTANT: The team should confer so that each member addresses different
+aspects.  If there is some disagreement over who does what, I suggest you flip a
+coin for who picks first, then alternate choosing.
+
+Learning Objectives
+===============
+
+1.  To have you consciously and critically examine sites from a user interface
+designer's perspective, making a point of thinking about the interface.  We will
+be reading texts later to sharpen your perception of UI aspects, but here we
+provide some criteria for you to use.
+
+2. To have you collaborate with another person.  Our advisory board  stresses
+the importance of collaborative work at their establishments, and wants us to have
+more such experiences in our curriculum.  I expect you to work with your team and
+to discuss your responses collectively.  You may want to visit the sites separately
+at first, but you should definitely visit them together to compare your observations.
+It is not required that you converge to a single evaluation, but if you differ, you
+should say so and explain.  You will have several weeks to do this, and if there
+are any issues with the functioning of the teams, I would like you to bring them to
+me.
+
+3. To have you give an oral presentation.  In almost any work environment you
+will need to present information you gathered to others.  It is something that can
+be scary the first time but becomes easier with practice.
+
+Evaluation Criteria I will use
+=====================
+
+1. For the written assignment, I will visit the sites myself and check your work for
+accuracy.  Certainly much of our response to a site's aesthetics is subjective, but
+you should try to be objective where you can.  I will consider the completeness
+of your submission, i.e.,  that you did consider each of the criteria.  There may be some
+items that are not as important for some sites and you can indicate that in your
+response.  For example, some sites may not have as much opportunity for the user to supply
+input values as other sites do.  I will also assess the quality of your writing.  The
+answers should be grammatically correct sentences using appropriate words,
+correctly spelled.   A lengthy response calls for a sensible organization of the answer
+into paragraphs.   Writing should be of the quality required in a paper for the English
+department.
+
+2.  For the oral presentation, I will be considering
+
+a. evidence that you prepared the talk(stay within the time bounds, slides are prepared
+in advance, demonstrated familiarity with your material)
+
+b. organization(it is common for a talk to begin with an overview of what is coming, and
+you should have an initial slide that identifies your team and you, the websites you
+looked at, and the specific features/aspects/criteria your presentation will consider;
+you should make some concluding, summary evaluation about how the sites compared
+based on what you presented, even if that conclusion would be contradicted by other
+features; what I mean by this is that considering all aspects, you may regard X as
+better than Y, but if you are only looking at aspects in which Y is better, you should
+draw the conclusion that your presentation supports;  note, this also may require you
+to weight some aspects more than others)
+
+c. oral expression(your thoughts were clearly expressed in correct English and
+you spoke so everyone could hear you-- if we were in a large auditorium it would be wise
+to use a sound system and ask the audience if it were set adequately, but in our
+room your speaking voice should be adequate)
+
+d. content(primarily that the claims made are supported by evidence presented with
+them, but also a knowledge of what is desirable w.r.t a criterion)
+
+e. although I would not necessarily use it in assigning a grade, I think it could be
+very useful for the class to provide some feedback, too;  these presentations
+are intended to give you practice and identify strengths and aspects that can be
+improved; I need to figure out a delivery mechanism for class feedback, however;
+
+Website Areas
+============
+
+So you are not comparing apples to oranges, I have tried to put sites into
+groups where the purposes of the sites in a group are more or less the same.
+
+The areas are
+
+1. news dispensing, broken down further by the kind of publication the
+site is the web presence of(newspaper, periodical, ...)
+
+2. shopping or commercial, broken down further by the nature of the
+items being sold
+
+3. museums and art galleries
+
+In the case of news organizations, I have grouped them by my guess of
+their editorial slant, liberal or conservative and I want you to pick one of
+each.   As I am not fully familar with  all of them my labels may not be fair.
+Certainly some of the ones I am familiar with are not wholly one way.  For
+example, the New York Times has some conservative columns and
+The Economist takes some positions that would be regarded as liberal or
+Democratic in this country.
+
+Even with that disclaimer over the accuracy of my labeling, I think it is
+worthwhile to include different outlets but you should not let your agreement
+or disagreement with the tenor of the outlet color your evaluation of the
+effectiveness of the site as an information dispensing website.
+
+You should visit two sites and  spend 2 to 4 hours exploring them.
+
+In all cases, you should spend some initial time getting the lay or geography
+of the site by examining the entry page and its major headings, and trying
+a few of them.  You should determine how the site is organized before
+pursuing a more  specialized task, which is a pretense for the purpose of
+the exercise.  It is better for you to use sites that you are NOT already
+familiar with so you confront it as a novice or first time user.
+
+You may suggest a different category altogether, but it needs to have
+sites of comparable complexity.  For example, you might pick two
+university sites.
+
+Specialized Tasks for the Categories
+=============================
+
+Imagining yourself to be a typical user may help to focus your attention
+on the helpfulness of the site, so we ask you to assume a role
+during your visit.
+
+In the case of a commercial site, I would like you to act as if you were
+shopping for gifts for family or friends and go through the motions of
+purchasing some items, stopping just short of actually buying anything.
+
+In the case of an information site, you should act as if you are researching
+some particular event in the news, so you should look for articles that are
+related to the event, exposing its search capabilities.  Use the same event
+for the two sites.  If the site has a free trial subscription period, you may
+sign up for it, or if a full subscription, fill out its forms stopping just short of
+committing any money, so you can see the form input features it has.
+
+In the case of a museum site you should imagine you are planning a trip and
+are considering visiting the place, so you want to gain an understanding of
+what its permanent collection holds, any special events during your visit
+(pick some week in the not too distant future), hours of operation, etc.
+
+Make a point of picking a site that you are not already familiar with.
+
+If you are using an entirely different area from these listed, you will need
+to suggest a purpose to the visit.  For example, if it were a university site,
+you might take the role of a prospective student investigating course
+offerings, costs, etc.
+
+
+Site Areas
+========
+
+Within any of these areas, you may suggest alternatives, but they
+should not be sites you already are very familiar with.
+
+I. Commercial/Shopping(outdoor gear, clothes)
+------------------------------------------------------------------
+
+https://www.llbean.com/
+
+http://www.sierratradingpost.com/
+
+http://www.eddiebauer.com/
+
+https://www.thenorthface.com/
+
+
+II. Commercial/Shopping(home furnishings)
+-------------------------------------------------------------
+
+http://www.ikea.com/us/en/
+
+https://www.wayfair.com/
+
+http://www.target.com/
+
+https://www.bedbathandbeyond.com/
+
+
+III. Informational(Newspaper)
+-----------------------------------------
+
+Pick a liberal and a conservative site.
+
+// generally liberal
+
+https://www.nytimes.com/
+
+https://www.washingtonpost.com/
+
+https://www.bostonglobe.com/
+
+// generally conservative
+
+http://www.chicagotribune.com/
+
+http://www.wsj.com/  (Wall Street Journal)
+
+
+IV. Informational(News Magazine)
+-----------------------------------------------
+
+Pick one liberal and one conservative.
+
+// generally liberal
+
+http://www.newyorker.com/
+
+https://www.theatlantic.com/
+
+http://www.motherjones.com/
+
+// generally conservative
+
+http://www.usnews.com/
+
+http://www.nationalreview.com/
+
+http://www.weeklystandard.com/
+
+http://www.economist.com/
+
+
+V. Informational(Web only)
+--------------------------------------
+
+// generally liberal
+
+http://www.huffingtonpost.com/
+
+http://www.dailykos.com/
+
+// generally conservative
+
+http://www.drudgereport.com/
+
+
+VI.  Informational(TV to Web)
+-----------------------------------------
+
+// generally liberal
+
+http://www.msnbc.com/
+
+// generally conservative
+
+http://www.foxnews.com/
+
+
+
+VII. Websites for Museums
+---------------------------------------
+
+https://www.si.edu/     Smithsonian
+
+http://www.mfa.org/     Boston Museum of Fine Art
+
+http://whitney.org/      The Whitney Museum
+
+https://nmaahc.si.edu/  National Museum of African American History and Culture(opened September 2016)
+
+http://www.britishmuseum.org/  The British Museum
+
+https://www.moma.org/  Museum of Modern Art
+
+https://www.ushmm.org/  Holocaust Museum
+
+or some other museums of comparable scale that you are curious about
+
+Evaluation Criteria- General Criteria to Use for All Sites
+==========================================
+
+In some cases the questions may be less applicable to the kind of sites
+you are comparing, but do the best you can.  If team members disagree
+on specific criteria, then the points of agreement and disagreement
+should be identified.  There is not necessarily a right answer, but
+you should try to understand the source of the difference of
+evaluation.
+
+
+1. In general terms, characterize the purpose of the website and, if possible,
+what assumptions the developers would be justified in making about its users.
+
+
+Organization and Navigation
+---------------------------------------
+
+2.  Is the site's organization reasonably simple to understand, with features
+hierarchically organized into reasonably chosen larger groups and and links
+clearly labeled  with informative text?
+
+3. Is navigation of the website easy, in particular, if you are searching for specific
+information, could you find it quickly?
+
+4. Does the site provide appropriate feedback(banner, labels, etc.) to
+operations or selections to help the user understand his/her context?
+
+5. Does the user have to remember information from an earlier page that is
+no longer displayed?  Re-enter form data that has been entered once?
+
+6. Did the website have a local search engine?  If yes, try it for an item
+that you know is there and one you know is not there.  Does it respond
+clearly in the case of  both searches?
+
+7. Did you get lost in the interface and have a difficult time returning to the
+entry page or an earlier page w/o using the browser's history?  were there
+links back?
+
+8. Did all pages have a link back to the entry/home page?
+
+9.  Did the pages have a consistent appearance so that you could tell you were
+within the site?  Was there a common banner on all pages?
+
+10. Did you encounter any broken links, or pages that faulted?   After you have
+explored it, you might try
+
+http://validator.w3.org/checklink
+
+to test the links.   This took over five minutes of cpu time for the USM site,
+so you may want to leave it running at the end of the day.
+
+11. How difficult was it to accomplish the presumed task of your visit?  are there
+other things the site might have done to make it easier to accomplish your task?
+
+
+Content and Presentation of Content
+---------------------------------------------------
+
+12.  Was the textual content of the site well written, accessible English that you
+could readily understand?
+
+13. Was all of  the text legible as delivered, fonts large enough and readable,
+letters colored in a manner distinct from background, etc.?
+
+14. Apart from the static text, were all error messages or messages that
+report progress of operations or other dynamically generated text clear and
+understandable and presented legibly?
+
+15. Did you think the images were well chosen to support the textual discussion?
+Did you think "Gee, I wish they had a picture of ..." for something that was not there?
+
+16. Do the images displayed all have text captions?  Try hovering  the mouse over
+a few.  Does a tooltip style text pop up?  Images are presented with the HTML
+img element and should always have the alt attributes with alternative text
+for the visually impaired.  Use the browser tools to inspect a random choice of
+three and see how many have the alt attribute with something other than the empty string.
+
+17. How was the graphic appearance of the site?  Was it too dull/drab?
+too busy/garish?
+
+18. Was color used effectively?
+
+19.  We assume that the site had text and images.  Did it also have sound and
+video?  If yes, were they used effectively, that is, well-chosen as accompaniments
+to the text?
+
+20.  Did the site have advertising?  Was the advertising intrusive or make it
+difficult to get to the information on the site?
+
+21. Was the site's privacy policy clearly and prominently accessible, in particular
+was there any discussion of whether the site records data about your visit?
+
+22. Include any other aspects that you think were important to your experience
+of the site but are not covered by any of these criteria.
+
+Additional Criteria Specific to Shopping Sites
+---------------------------------------------------------------
+
+If you are comparing shopping sites, go through the motions of making
+a purchase, but do not complete it unless you really want the item.
+
+
+23.  When patterned data (dates, credit card numbers, etc.) is required,  how does
+it deal with invalid data entry?  (there are several possibilities; it might disable some
+keys, it might give immediate feedback on entry or it might give an error message
+at an attempt to submit the form)  Does the feedback make it clear what pattern of
+data is needed?  Does it use an example?  What help does it provide to the
+user entering data where some data can be invalid?  You might trying giving a
+number for your name or an invalid email address to see how it responds.
+
+24. Were select menus used instead of text boxes where appropriate?
+
+25. Were check boxes used instead of text boxes where appropriate?
+
+26. Was there a clear sequencing of steps of the transaction that was plain to the
+user?
+
+27. Were there clear opportunities to change the order right up to committing
+the transaction?
+
+28. Was there an explanation of the security provided for credit card numbers?  If yes,
+was it understandable?
+
+Input Features of Non-shopping Sites
+-----------------------------------------------------
+
+If there were opportunities for you to sign up for something, add a comment,
+generally some feature that requires input from you, it would be great if you
+could explore it, BUT DO NOT DO ANYTHING THAT YOU ARE
+UNCOMFORTABLE WITH.  If there are such opportunities, please
+answer the following
+
+23. There may be several distinct opportunities(make a donation to the
+organization, signing up to a mailing list, subscribing to the publication,
+etc.).  For each that you try, answer the following.
+
+a. briefly characterize what the purpose of the opportunity is(making a donation,
+etc.)
+
+b. was the input mechanism easy to understand and use?
+
+c. to prevent user keying errors, were select menus, check boxes and
+radio buttons used where appropriate in lieu of text boxes?
+
+d. is there an opportunity for free entry of text that has some constraint
+on validity(e. g., credit card numbers, dates, etc.)?  If yes, try entering
+invalid data to see how the site responds.  Does it prevent the entry?
+does it give useful feedback?  does it explain what the needed
+pattern is?
+
+e. if the data is entered by checkboxes or select menus and there is a clearly
+inconsistent set of choices, try making it to see if the site catches
+the error.  Does it prevent the choice?  Does it give understandable
+feedback that the choice is invalid?
+
+
+Summary Questions for All Sites
+----------------------------------------------
+
+A. Identify any features of each that you thought were especially effective,
+or attractive or surprised you.
+
+B. Identify any features of each that you thought were particularly dismal
+or unfortunate design choices.
+
+C. Based on your survey, make a summary judgment on whether the sites
+are equally effective (or ineffective)  or one appears better than the other
+and defend your choice.  Especially here, points of agreement and
+disagreement within the team should be identified, thought given to
+its cause and some explanation.  It could be the a difference in emphasis
+or weight given to one aspect or another, possibly something in that site
+that resonated with one individual more than the other.
+

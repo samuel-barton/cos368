@@ -1,0 +1,42 @@
+% Packages ********************************************************************
+
+% Math Packages.
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{mathtools}
+\usepackage{qtree}
+\usepackage[retainorgcmds]{IEEEtrantools}
+
+% Code Listing Packages.
+\usepackage{listings}
+
+% Formatting Packages.
+\usepackage[margin=1.25in]{geometry}   % for margin size.
+\usepackage{ragged2e}                  % for FlushLeft env.
+%\usepackage{parskip}
+
+% Misc. Packages.
+\usepackage{hyperref}
+\usepackage{tikz}       % Used for encircled characters.
+\usepackage{lipsum}
+
+
+
+% Settings ********************************************************************
+
+\linespread{1.3}                           % 1.5 line spacing.
+\setlength{\parskip}{1em}                  % Paragraph spacing.
+%\setlength{\parindent}{0.5in}             % Paragraph indent.
+\setlength{\RaggedRightParindent}{0.5in}   % Paragraph indent (w/ ragged2e).
+
+
+% Commands ********************************************************************
+
+% Floor & Ceiling.
+\DeclarePairedDelimiter\ceil{\lceil}{\rceil}
+\DeclarePairedDelimiter\floor{\lfloor}{\rfloor}
+
+% Encircle characters.
+\newcommand*\circled[1]{\tikz[baseline=(char.base)]{
+            \node[shape=circle,draw,inner sep=2pt] (char) {#1};}}

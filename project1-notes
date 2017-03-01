@@ -1,0 +1,117 @@
+- Submit by blackboard :: Saturday March 4, 8 AM
+
+Learning Objectives
+===================
+
+    1.  Consciously & critically examine sites from a UI designer's perspective.
+
+    2.  Collaborate with another person.
+
+    3.  Give an oral presentation.
+
+
+
+Evaluation Criteria
+===================
+
+    1.  Written assignment: Quality of writing, addressing every point
+
+    2.  Oral Presentation: Preparation, organization, expression, content.
+
+
+
+Evaluation Criteria :: General Criteria for all sites
+=====================================================
+
+    1.  Characterize the purpose of the website; what assumptions the devs
+        would be justified in making about its users.
+
+    Organization / Navigation
+    -------------------------
+
+        2.  Is the organization simple to understand? Hierarchical organization?
+            Links clearly labeled with informative text?
+
+        3.  Is navigation easy? Could you find specific information quickly?
+
+        4.  Does it provide appropriate feedback to operations?
+
+        5.  Does the user have to remember information from an earlier page that is
+            no longer displayed? Re-enter form data?
+
+        6.  Local search engine? Does it respond clearly?
+
+        7.  Did you get lost/have a difficult time getting back to earlier page
+            w/out browser?
+
+        8.  Did all pages have a link back to the entry/home page?
+
+        9.  Did the pages have a consistent appearance?
+
+        10. Did you encounter broken links or bad pages?
+            Try http://validator.w3.org/checklink
+
+        11. How difficult was it to accomplish the presumed task of your visit?
+            Are there things the site might have done to make it easier?
+
+    Content and Presentation of Content
+    -----------------------------------
+
+        12. Was text content well-written, accessible, easily understood?
+
+        13. Were fonts large enough, readable? Was text/background coloring good?
+
+        14. Were error messages or progress reports clear and understandable?
+
+        15. Were images well chosen / support the text?
+
+        16. Do all images have text captions? Do they have tooltips? Choose (3)
+            images to inspect the alt attribute of.
+
+        17. How was the graphic appearance of the site? dull/drab? busy/garish?
+
+        18. Was color used effectively?
+
+        19. Did it have sound / video? Were they used effectively?
+
+        20. Did the site have advertising? Was the adv. intrusive or make it
+            difficult to get to information on the site?
+
+        21. Was the site's privacy policy clearly and prominently accessible?
+            Does the site record data about your visit?
+
+        22. Anything else?
+
+    Input features for non-shopping sites
+    -------------------------------------
+
+        23. For each input you try:
+
+            a. Briefly characterize what the purpose of the input is.
+
+            b. was the input mechanism easy to understand and use?
+
+            c. Were select menus, check boxes, radio buttons used where
+               appropriate in lieu of text boxes?
+
+            d. Is there an opportunity for free entry of text that has some
+               constraint on validity? If yes, try entering invalid data.
+               Does it prevent entry? does it give useful feedback? does it
+               explain what the needed pattern is?
+
+            e. If the data is entered by checkboxes or select menus and there is
+               a clearly inconsistent set of choices, try making it to see if the
+               site catches the error. Does it prevent the choice? Does it give
+               understandable feedback that the choice is invalid?
+
+    Summary Questions for All Sites
+    -------------------------------
+
+        A. Identify any features of each that you thought were especially effective,
+           or attractive or surprised you.
+
+        B. Identify any features of each that you thought were particularly dismal
+           or unfortunate design choices.
+
+        C. Make a summary judgement on whether the sites are equally effective
+           or one appears better than the other and defend your choice.
