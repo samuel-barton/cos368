@@ -1,0 +1,337 @@
+PROJECT CRITERIA
+================
+
+    Site:   Standford University (https://www.stanford.edu)
+
+
+
+
+
+Evaluation Criteria :: General Criteria for all sites
+=====================================================
+
+    1.  Characterize the purpose of the website; what assumptions the devs
+        would be justified in making about its users.
+
+            The website is a hub for all information and resources for Stanford
+            University. It provides: history of Stanford, campus maps info & tours,
+            contact information for faculty, Stanford news & events, admission
+            information, academic information (sites for individual schools, departments,
+            programs, calendar), research info, campus/student life info (living
+            resources, athletics & fitness, arts & culture, activities).
+
+            The devs would be justified in assuming the primary use (if not the
+            exlusive use) of the site is to **find information**. Whether the
+            user is a current student, prospective student, parent, faculty, or
+            alumni, they are probably coming to the site to find some information
+            be it a phone number, an email address, a date, a time, a deadline,
+            a form, etc.
+
+            Because of this, I would expect a very high quality search engine,
+            and high attention to organization and navigation.
+
+
+
+    Organization / Navigation
+    -------------------------
+
+        2.  Is the organization simple to understand? Hierarchical organization?
+            Links clearly labeled with informative text?
+
+                The organization is very simple to understand. The organization
+                is hierarchical.
+
+                - The highest level of organization are the four **gateways**
+                  or views into the site & database. On the home page there are
+                  four clearly labeled buttons: Students, Faculty/Staff,
+                  Parents, Alumni. The Students and Faculty/Staff buttons lead
+                  to "Gateway" pages, which take sections and links from around
+                  the site that are relevant to either Students or Faculty and
+                  list them on a single page. These sections are verbatim from
+                  other parts of the site (as in, I'm pretty sure the HTML elements
+                  are verbatim), they are just filtered and organized for the
+                  target audience.
+
+                  The Parents and Alumni buttons actually take you to different
+                  sites: parents.stanford.edu & alumni.stanford.edu. These are
+                  disconnected from the content on stanford.edu and have new
+                  banners, buttons, and information. parents.stanford.edu follows
+                  the same layout as stanford.edu, but provides information specific
+                  to parents. However, alumni.stanford.edu has a completely different
+                  format, layout, and organization than the main site. In fact, it
+                  almost seems as if alumni.stanford.edu is an older layout, perhaps
+                  what the main site used to look like before an update? It is much
+                  harder to use than the main site and has a busier organization
+                  scheme.
+
+                - The next level of organization are the main section tabs on the
+                  home page of the website. These are: About Stanford, Admission,
+                  Academics, Research, Campus Life. These tabs persist throughout
+                  stanford.edu. Each tab contains sections each with bullet points
+                  (clickable links) to more specific information under that section
+                  header. For example, the About Stanford section contains the
+                  subsection Stanford Facts & History which itself contains a brief
+                  summary of the section, and three bullet points: Stanford Facts,
+                  Annual Report, and History.
+
+                  The sections and bullet points under these main tabs are the
+                  sections that are filtered under the Student and Faculty
+                  gateways.
+
+                - The next level of organization is the specific information
+                  level. This is an extremely intuitive organization scheme
+                  and is, for me, the highlight of the website.
+
+                  For every bullet link in level 2, there is a site X.stanford.edu
+                  where X is a brief descriptor of that bullet. For example,
+                  clicking the Stanford Facts link from earlier will take you to
+                  facts.stanford.edu. Each of these sites follow the same organization
+                  scheme as the top level stanford.edu. So these sites themselves
+                  each have tabs and subsections, but only related to specific info.
+
+                  This scheme isn't 100% true all of the time. Some links take you
+                  to subsections of the main site, but for the most part, large sections
+                  of information are contained in a single X.stanford.edu.
+
+        3.  Is navigation easy? Could you find specific information quickly?
+
+                Navigation is very easy. Taking the role of a prospective grad
+                student looking for an MS in Computer Science, I set out to find
+                the application deadline for that program. Starting from the
+                home page (stanford.edu), I found the answer I was looking for
+                in only 3 button presses and 1 search without having to go 'back' with
+                my browser.
+
+                    i.   Clicked the Admission tab
+                    ii.  Under the Graduate section, clicked Graduate Admission.
+                         This took me to gradadmissions.stanford.edu
+                    iii. Searched for Computer Science in the centered search
+                         field.
+                    iv.  Clicked on the "Computer Science" result.
+
+                Another test I tried was finding CS grad specializations for the
+                MSCS. I used the search engine to search for "Computer Science",
+                and clicked the top result which took me to www-cs.stanford.edu.
+                Here I used the main navigation bar to go to academics>current masters>
+                choosing a specialization. This brought me to a page with all
+                MSCS specializations. Each had a blurb about the program, some
+                links to courses in the program, links to professors in the program,
+                and links to other resources related to the program.
+
+        4.  Does it provide appropriate feedback to operations?
+
+                TODO: don't know where you came from etc. navigation
+
+        5.  Does the user have to remember information from an earlier page that is
+            no longer displayed? Re-enter form data?
+
+                We can't really do these types of form entries because of the
+                nature of the site.
+
+        6.  Local search engine? Does it respond clearly?
+
+                The local search engine uses Google Custom Search (go figure),
+                so it is very fast and the output format is familiar.
+
+                On the main page, the search control in the top right has two
+                modes selected by radio buttons: Web, and People. The search
+                page www.stanford.edu/search/ also provides additional modes:
+                Organizations and Campus Map.
+
+                The Web and Campus Map search environments are exceptionally good.
+                They are responsive and familiar to any google user.
+
+                However the People and Organizations search environments are very poor.
+                The tools are cluttered on the page and there is too much information
+                being displayed at once. For example, A People search for "Joe Schmo"
+                which has no results, demonstrates how cluttered the interface is.
+                Upon brief inspection of the results page I wouldn't immediately
+                know whether there were results or not because the page is so
+                messy, and the results string "No Matches in Public Directory"
+                is too small.
+
+                Another test I tried is searching for "Computer Science" in the
+                People search environment. This also produced no results, but
+                didn't suggest to me the possibility that I used the wrong
+                search environment, even though it provides other suggestions
+                like trying different filters or directories.
+
+        7.  Did you get lost/have a difficult time getting back to earlier page
+            w/out browser?
+
+                I did get lost at times. It is always possible to get back to
+                www.stanford.edu from any part of the site, but it is not always
+                possible to get back to the page you immediately came from. I
+                don't think this is a problem, it is clear the developers/designers
+                rely on using back/forward and search history so that they do
+                not need to implement their own controls within the site. It is
+                still easy to find information and review larger sections of
+                information before digging deeper.
+
+        8.  Did all pages have a link back to the entry/home page?
+
+                Kind of, the "Stanford" logo in the top left of every page takes
+                you back to www.stanford.edu. However, some pages are dead-ends
+                and have no such stanford logo. These are usually pages managed
+                by specific groups in specific departments. This is comparable to
+                a USM professor personal site not having a direct link to
+                usm.maine.edu, I don't think it is expected or necessary.
+
+                The handful of pages that do not link back to the main site
+                at all are the sites for each individual School. The "stanford"
+                logo on these sites links back to the home page of that school's
+                site only. I actually found this to be convenient while I was
+                browsing the school of engineering
+
+        9.  Did the pages have a consistent appearance?
+
+                For the most part. All of the main pages and primary sections
+                have a consistent and very professional appearance. As you dig
+                deeper into any one departments more specific pages, there is a
+                distinct change of appearance. I expect this is because less-technical
+                folks are designing or styling the web pages. These pages are
+                usually more function-over-form. An example of this is
+                the Stanford InfoLab page (infolab.stanford.edu).
+
+        10. Did you encounter broken links or bad pages?
+            Try http://validator.w3.org/checklink
+
+                I ran stanford.edu using http://validator.w3.org/checklink,
+                and it wasn't perfect. According to the checker, the
+                website has 12 forbidden links (code 403), 3 broken links
+                (code 404), and one gateway timeout on a link (code 504).
+
+                There were also 13 warnings regarding links that were redirects,
+                which cause browser performance issues. These links technically
+                work, but need to redirect and forward requests before the
+                request is satisfied. These are human errors that can be
+                fixed, but haven't.
+
+        11. How difficult was it to accomplish the presumed task of your visit?
+            Are there things the site might have done to make it easier?
+
+                The task of my visit was to learn about the application process,
+                financing, and offerings regarding an MS in Computer Science.
+                I found everything I was looking for without any problems. Usually
+                I can find what I'm looking for without using the search engine,
+                but when I'm stumped, the search engine works perfectly well.
+
+
+
+    Content and Presentation of Content
+    -----------------------------------
+
+        12. Was text content well-written, accessible, easily understood?
+
+                Yes, the english is good. I found at least one spelling error
+                on the Computer Science site, but other than that the text content
+                is well-written.
+
+        13. Were fonts large enough, readable? Was text/background coloring good?
+
+                Yes, the background is white, the main text is black, and
+                any highlights or accents are boldface cardinal (stanford color).
+
+                Everything is readable and the Cardinal/black text provides
+                a nice environment for quickly visually scanning a page.
+
+                However, the typeface is sans serif, and the smaller sans serif
+                text is kind of hard for me to read. This might just be a personal
+                preference.
+
+        14. Were error messages or progress reports clear and understandable?
+
+                TODO
+
+        15. Were images well chosen / support the text?
+
+                Images were well chosen. If a page talks about a person, there
+                is a picture of that person somewhere on the page.
+
+        16. Do all images have text captions? Do they have tooltips? Choose (3)
+            images to inspect the alt attribute of.
+
+                TODO
+
+        17. How was the graphic appearance of the site? dull/drab? busy/garish?
+
+                The graphic appearance of the site is good for the most part.
+
+                One strange thing to note that is relevant these days is the
+                following: I use a MacBook Pro with a Retina display screen
+                This screen has a really high resolution. Most of the custom
+                icons and images on the Stanford website are bitmap images
+                that are not high-enough resolution for the Apple Retina display.
+                This makes some parts of the website very ugly. It is hard to
+                find the tradeoff between images sizes and image quality, but
+                many major websites have begun to accomodate these new ultrahigh
+                resolution monitors.
+
+        18. Was color used effectively?
+
+                Yes. Color was used in two ways: to emphasize text and to
+                make widgets and navigation tools visually pop off the background.
+
+                For the most part Stanford's school colors were used (cardinal and white)
+                and dark grey accents. This reinforces the branding of the
+                university and makes the visuals very pleasing.
+
+        19. Did it have sound / video? Were they used effectively?
+
+            TODO
+
+        20. Did the site have advertising? Was the adv. intrusive or make it
+            difficult to get to information on the site?
+
+                I found no advertising on the site, other than in the About
+                pages for prospective students.
+
+        21. Was the site's privacy policy clearly and prominently accessible?
+            Does the site record data about your visit?
+
+                I could not find the site's privacy policy at all, or any
+                mention of whether the site records data about my visit. Unfortunately
+                due to the nature of a university, there are more than one
+                "Privacy Policy" for the organization, so the search engine
+                isn't any help.
+
+        22. Anything else?
+
+                Nope.
+
+
+    Input features for non-shopping sites
+    -------------------------------------
+
+        23. For each input you try:
+
+            a. Briefly characterize what the purpose of the input is.
+
+            b. was the input mechanism easy to understand and use?
+
+            c. Were select menus, check boxes, radio buttons used where
+               appropriate in lieu of text boxes?
+
+            d. Is there an opportunity for free entry of text that has some
+               constraint on validity? If yes, try entering invalid data.
+               Does it prevent entry? does it give useful feedback? does it
+               explain what the needed pattern is?
+
+            e. If the data is entered by checkboxes or select menus and there is
+               a clearly inconsistent set of choices, try making it to see if the
+               site catches the error. Does it prevent the choice? Does it give
+               understandable feedback that the choice is invalid?
+
+
+
+    Summary Questions for All Sites
+    -------------------------------
+
+        A. Identify any features of each that you thought were especially effective,
+           or attractive or surprised you.
+
+        B. Identify any features of each that you thought were particularly dismal
+           or unfortunate design choices.
+
+        C. Make a summary judgement on whether the sites are equally effective
+           or one appears better than the other and defend your choice.
