@@ -162,16 +162,24 @@ vary completely from the university's look and feel, but it is not jarring---the
 pages are usually well-designed for their own purposes. An example of one of these
 smaller pages is for the Stanford InfoLab: \url{https://infolab.stanford.edu}.
 
-\subsubsection*{Human Error in Site Development?} % TODO(storme): should we table the results?
+\subsubsection*{Human Error in Site Development?}
 
 Both the Stanford and MIT websites are massively complex and thus some human error is unsurprising.
-We used a tool on both sites to determine how much human error was present.
+That being said, MIT has significantly less broken links than Stanford does. We used the
+World Wide Web Consortium's Link Checker tool (\url{https://validator.w3.org/checklink})
+to test both of the websites. Here is a table of the results:
 
-In the entirety of the site, there were seven bad links or pages according to the tool at
-\url{http://validator.w3.org/checklink}. See
-\href{http://validator.w3.org/checklink?uri=mit.edu&hide_type=all&depth=&check=Check#results1}{results}
-for the results for MIT's site. Thus the site has successfully eliminated nearly all of its
-human error problems as far as navigation is concerned.
+\begin{center}
+\begin{tabular}{|l|c|c|}
+\hline
+                                & \textbf{MIT} & \textbf{Stanford} \\ \hline
+\textbf{404} Not Found          & 1            & 3                 \\ \hline
+\textbf{403} Forbidden          & 2            & 11                \\ \hline
+\textbf{405} Method Not Allowed & 0            & 1                 \\ \hline
+\textbf{500} Server Error       & 0            & 1                 \\ \hline \hline
+\textbf{Total}                  & 3            & 16                \\ \hline
+\end{tabular}
+\end{center}
 
 \subsubsection*{Can I Do What I Came Here to Do?}
 
