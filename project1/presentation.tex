@@ -53,11 +53,18 @@ pages. These images are always useful and support the text around them.
 All images that would reasonably have captions do on MIT's website, background images do not but
 adding captions to them would make the site less usable so that is a perfectly reasonable
 decision. Only one of the images I looked at with any level of detail had a tooltip, and
-about half of the images had alt text. When the alt text was present it was generally quite
+about half of the images had \texttt{alt} text. When the \texttt{alt} text was present it was generally quite
 useful, but it was not present several times when it would have been incredibly helpful to
 someone who was blind, had a slow internet connection, or was dealing with tight filtering.
 
-% TODO(storme): add stanford
+Images on the front pages of Stanford's site have both tooltips and sufficient
+\texttt{alt} attributes. However, images on individual school pages and especially
+pages for smaller organizations within the university lack both tooltips and
+\texttt{alt} attributes. For example, at the time of this writing, every image
+on the Stanford computer science department home page (\url{https://www-cs.stanford.edu/})
+is missing both tooltips and \texttt{alt} attributes.
+
+Most if not all images on the Stanford site lack visible text captions.
 
 \subsubsection*{Presentation of Graphics}
 
@@ -92,13 +99,17 @@ quality for more users.
 
 \subsubsection*{Color}
 
-Color was very minimal, most of the pages on the MIT site are white with black text. There
+Color was very minimal on the MIT site; most of the pages are white with black text. There
 were colors on some pages, and when they were present they were tastefully presented. But
 even with all the variance amoung the departments present on the site there were next to none
 which employed color beyond the very minimum needed to differentiate menus from the main
 body of their pages.
 
-% TODO(storme): add stanford
+On the Stanford site, color was used in two ways: to emphasize important text,
+and to make widgets and navigation tools visually pop off the background.
+For the most part, Stanford's school colors---cardinal and white---were used,
+along with dark grey accents. This consistency unified the visual presentation
+of the site.
 
 \subsubsection*{Audio and Video}
 
@@ -107,7 +118,10 @@ showcasing of experiments on some research pages there was no video either. The 
 present were perfectly acceptable, and more often than not interesting, but there were very
 few of them.
 
-% TODO(storme): add stanford
+Most videos on the Stanford site are embedded YouTube videos, and always have ample
+padding around them so that they do not clutter the page. Videos are kept to a
+minimum and if a page contains an embedded video, its presence is usually the
+primary purpose of the page.
 
 \subsubsection*{Advertising}
 
