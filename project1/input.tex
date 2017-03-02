@@ -3,7 +3,7 @@
 \subsubsection*{Purpose}
 
 For both Stanford and MIT the best solution for testing their respective input handling capabilities was to execute
-various searches utilizing each sites' local search engine. These searches ran the gamut from simple phrases to 
+various searches utilizing each sites' local search engine. These searches ran the gamut from simple phrases to
 Javascript code snippets.
 
 \subsubsection*{Mechanism Undstandability and Usability}
@@ -16,6 +16,13 @@ Javascript code snippets.
             entire site, the `people' of MIT, or the offices of MIT. These detailed
             customizations of the search space made searching much more focused and useful.
 
+            All of the input mechanisms for all four modes of the Stanford search
+            engine are easy to use. The \textsl{Campus Map} context has significantly
+            more widgets than the others, but because it is powered by Google Maps,
+            it is designed very well and the functionality is familiar. All
+            check boxes, radio buttons, and dropdown menus in all search contexts
+            are clearly labeled.
+
 \subsection*{Non-texual Input Supplementation}
 
             Radio buttons were used, as mentioned in the previous section, in a very useful
@@ -23,7 +30,11 @@ Javascript code snippets.
             on one's location in the sites hierarchy, but in those cases where further search
             customization would be helpful radio buttons appeared above the search bar to select
             search categories.
-			
+
+            In the Stanford search environment, all boolean modifiers appear as check
+            boxes, and you can select between the \textsl{Web} and \textsl{People}
+            contexts using radio buttons on the main page.
+
 \subsection*{Validation}
 
             The MIT search engine will accept any kind of information, and in most cases will just
@@ -36,4 +47,15 @@ Javascript code snippets.
             cannot search. Searching for non-alphabet characters \{!,@,[,*,/,\%,...\} has no adverse effect on
             the search experience, the search engine simply attempts to find relavent information containing
             those ``words''.
-			
+
+            While trying invalid input in the Stanford search engine, we discovered
+            a peculiar error message. When entering a string of punctuation into
+            the \textsl{People} or \textsl{Organizations} search field, the
+            error message ``your search term must include more than 1 character''
+            is returned. After some testing, it becomes clear that this is the case
+            because the search function removes all punctuation characters before
+            searching. This error message is a small oversight with no real
+            negative side effects. However, we believe that it is bad form
+            to have an error message that does not accurately reflect the input
+            it is responding to.
+
